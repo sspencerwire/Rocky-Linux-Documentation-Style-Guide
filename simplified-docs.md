@@ -27,7 +27,7 @@ Once the prerequisites have been met:
 4. Once the ISO has been written to the USB device, you can attach it to the machine that you will be installing Rocky Linux on and boot to this device. Again, refer to the prerequisites (above) to do this.
 5. If you successfully boot to the Rocky Linux image, you should be looking at a Rocky Linux splash screen giving you installation options.  
 `insert screen shot here`
-6. If you are using the entire drive of your target machine for Rocky Linux, the easiest way to get up and running is to simply take the default installation option.  
+6. If you are using the entire drive of your target machine for Rocky Linux, the easiest way to get up and running is to simply take the default installation option.
 `insert screen shot`
 7. Choose your language preference on the first screen and click "Continue"  
 `insert screen shot`
