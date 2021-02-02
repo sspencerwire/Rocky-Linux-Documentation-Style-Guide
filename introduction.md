@@ -34,7 +34,7 @@ These principles should apply to all documentation written for Rocky Linux:
 * **Assume a *basic* level of technical competency on the part of the reader.**  
 There *will* be documentation aimed at beginners who've never used Rocky Linux, or RHEL, or built their own servers, but this is an OS for people who have some idea what they want to do with it.
 *  **Include lots of examples, and explain exactly what you mean.**  
-... But don't make too many assumptions. Lots of Linux and server-building newbies will be reading what you write, so be as clear as you can. Explain every step, and every argumant or variable you put into the command line.
+... But don't make too many assumptions. Lots of Linux and server-building newbies will be reading what you write, so be as clear as you can. Explain every step, and every argument or variable you put into the command line.
 * **A screenshot is worth a thousand bits of jargon.**  
 Put the "show" in "show and tell". 'Nuff said.
 * **List the requirements at the top.**  
