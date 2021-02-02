@@ -21,6 +21,12 @@ You don't need to be some sort of programming expert (though it helps) or god-le
     * Technically correct and working as intended.
     * Easily read and understood.
 
+One last note: I *really* shouldn't have to say this next bit, but this is the internet, and the internet is a strange place: 
+
+*Don't put anything racist, sexist, or otherwise horrible in your documentation.* And put a lid on the really dark humor, 'cause lots of people just aren't ready to see that when they just want to get LiteSpeed up and running with WordPress, or their docker container's being fussy.
+
+Okay, with that out of the way, here's what you need to know about writing for us:
+
 ## Basic writing guidelines
 
 These principles should apply to all documentation written for Rocky Linux:
@@ -35,6 +41,8 @@ Put the "show" in "show and tell". 'Nuff said.
 On every tutorial, guide, or doc, list the things the reader will need to know or have installed first. There's no worse feeling than getting into the middle of a tutorial, then reading, "Okay, now SSH into your server..." when you haven't had any experience with SSH yet.
 * **Use the metaphor, Luke. And also watch out for the metaphors...**  
 And the anaologies, similes, idioms, and more obscure cultural references. While *we generally encourage* the use of all these literary devices to spice up documentation (especially the beginner-focused docs), do your best to keep them simple. Non-native English speakers still need to understand our documentation, especially those who will be translating it.
+* **The Oxford comma**  
+Also known as the serial comma. Love it, use it, and [read up on it](https://en.wikipedia.org/wiki/Serial_comma) if you want to.
 
 
 ## Images & screenshots
